@@ -145,8 +145,12 @@ github.com/ipfs/go-blockservice v0.0.3 h1:40OvwrxeudTAlUGUAKNYnNPcwQeLtXedjzTWec
 github.com/ipfs/go-blockservice v0.0.3/go.mod h1:/NNihwTi6V2Yr6g8wBI+BSwPuURpBRMtYNGrlxZ8KuI=
 github.com/ipfs/go-cid v0.0.1 h1:GBjWPktLnNyX0JiQCNFpUuUSoMw5KMyqrsejHYlILBE=
 github.com/ipfs/go-cid v0.0.1/go.mod h1:GHWU/WuQdMPmIosc4Yn1bcCT7dSeX4lBafM7iqUPQvM=
+github.com/ipfs/go-cid v0.0.2-0.20190506173019-f05385dd04ca h1:vKInkiytlDOCwWdcVBkEAALE2azxWboLjOaesSqK7O0=
+github.com/ipfs/go-cid v0.0.2-0.20190506173019-f05385dd04ca/go.mod h1:GHWU/WuQdMPmIosc4Yn1bcCT7dSeX4lBafM7iqUPQvM=
 github.com/ipfs/go-cidutil v0.0.1 h1:UpDQI2LrihqOGY2mHaMhjrhh1DJ14N/58BQb7lKXvlQ=
 github.com/ipfs/go-cidutil v0.0.1/go.mod h1:/0H649ymJksNEZvBAkM18HIctk7tkONH9tspTeLok48=
+github.com/ipfs/go-cidutil v0.0.2-0.20190506172930-4216e2813a74 h1:+/Fix0TkyMjwTZZIG3vaooMLLZgnvlBsnzzjgk2nZXo=
+github.com/ipfs/go-cidutil v0.0.2-0.20190506172930-4216e2813a74/go.mod h1:/0H649ymJksNEZvBAkM18HIctk7tkONH9tspTeLok48=
 github.com/ipfs/go-datastore v0.0.1 h1:AW/KZCScnBWlSb5JbnEnLKFWXL224LBEh/9KXXOrUms=
 github.com/ipfs/go-datastore v0.0.1/go.mod h1:d4KVXhMt913cLBEI/PXAy6ko+W7e9AhyAKBGh803qeE=
 github.com/ipfs/go-datastore v0.0.3 h1:/eP3nMDmLzMJNoWSSYvEkmMTTrm9FFCN+JraP9NdlwU=

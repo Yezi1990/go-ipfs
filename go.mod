@@ -19,8 +19,8 @@ require (
 	github.com/ipfs/go-bitswap v0.0.4
 	github.com/ipfs/go-block-format v0.0.2
 	github.com/ipfs/go-blockservice v0.0.3
-	github.com/ipfs/go-cid v0.0.1
-	github.com/ipfs/go-cidutil v0.0.1
+	github.com/ipfs/go-cid v0.0.2-0.20190506173019-f05385dd04ca
+	github.com/ipfs/go-cidutil v0.0.2-0.20190506172930-4216e2813a74
 	github.com/ipfs/go-datastore v0.0.5
 	github.com/ipfs/go-detect-race v0.0.1
 	github.com/ipfs/go-ds-badger v0.0.3
